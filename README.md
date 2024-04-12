@@ -2,6 +2,8 @@
 ## Overview
 This project was inspired by our competitive Sporcle trivia games on Discord, where my friends and I noticed varying performance across different categories such as movies, sports, science, and geography. Curious for a deeper analysis beyond our anecdotal evidence, we found that Sporcle's raw stats didn't offer the insights we sought. This repository was created to fill that gap by enabling detailed performance analysis through data scraping.
 
+Side note: if you want to play us, our username is Steveylat :P
+
 ## Objective
 The aim is to demonstrate how to scrape Sporcle performance data for your account, specifically from the username tables, and analyze it in Python. This allows for a deeper understanding of strengths and weaknesses across different trivia categories.
 
