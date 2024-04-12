@@ -20,6 +20,7 @@ Right click anywhere on the table and select "Inspect"
 
 ### Step 3:
 Select "<tbody> == $0 (2), and ensure the table values are highlighted (1). Next go to Copy (3) and select "Copy Element" 
+![image](https://github.com/TylerBerzzz/SporcleShowdownStatistics/assets/30520534/a5091a1f-27cb-44b5-9492-0d66131f65b8)
 
 ### Step 4:
 Open a notepad text file and paste the html information into it. Save it as "PageX.txt"
