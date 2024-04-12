@@ -27,6 +27,7 @@ Repeat the process for each page there.
 
 ## Result
 Preliminary results after 30 min!
+
 ![image](https://github.com/TylerBerzzz/SporcleShowdownStatistics/assets/30520534/7426df04-b523-44c5-a323-cc609d0b43c3)
 ![image](https://github.com/TylerBerzzz/SporcleShowdownStatistics/assets/30520534/5b3a1c43-30c7-441d-b624-0a2ab49b0047)
 
