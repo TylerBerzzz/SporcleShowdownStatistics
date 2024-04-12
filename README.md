@@ -27,9 +27,8 @@ Repeat the process for each page there.
 
 ## Result
 Preliminary results after 30 min!
-![image](https://github.com/TylerBerzzz/SporcleShowdownStatistics/assets/30520534/f273005b-2a1c-4169-bc29-d4c4655eb87c)
-![image](https://github.com/TylerBerzzz/SporcleShowdownStatistics/assets/30520534/b2891e7e-85fa-45e3-8617-add5f9b1ab58)
-
+![image](https://github.com/TylerBerzzz/SporcleShowdownStatistics/assets/30520534/7426df04-b523-44c5-a323-cc609d0b43c3)
+![image](https://github.com/TylerBerzzz/SporcleShowdownStatistics/assets/30520534/5b3a1c43-30c7-441d-b624-0a2ab49b0047)
 
 ## What's Next
 Currently, the project offers a basic proof-of-concept model for extracting data on a single topic. The next step involves finding an efficient solution to bypass the manual data entry, with plans to explore the selenium library for automated web scraping.
