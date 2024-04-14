@@ -53,6 +53,13 @@ This part needs to be fixed because it's manually determined at the moment: *for
 Everything is done through the hardcoded username!
 ![image](https://github.com/TylerBerzzz/SporcleShowdownStatistics/assets/30520534/2e324d4e-8add-48cd-9186-ba5fdd25bdfb)
 
+## Competitive Intelligence Grabber 
+![image](https://github.com/TylerBerzzz/SporcleShowdownStatistics/assets/30520534/9100fb70-d645-47a4-a863-cfc718b7a687)
+
+## More Graphing
+![image](https://github.com/TylerBerzzz/SporcleShowdownStatistics/assets/30520534/e4ac04ca-91a3-40b7-abfd-67998a2dbaaf)
+
+
 
 ## What's Next
 Currently, the data is being properly collected and its only up from here! The final touches on this project will be to detatch the hard-coded username and make it dynamic.  
