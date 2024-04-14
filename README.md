@@ -62,5 +62,4 @@ Everything is done through the hardcoded username!
 
 
 ## What's Next
-Currently, the data is being properly collected and its only up from here! The final touches on this project will be to detatch the hard-coded username and make it dynamic.  
-
+rewrite the readme to only include the fully automated script. Add additional helpful graphs!
