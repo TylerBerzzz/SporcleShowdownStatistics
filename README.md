@@ -46,6 +46,10 @@ Iterating through this url: **https://www.sporcle.com/user/steveylat/showdowns/{
 This part needs to be fixed because it's manually determined at the moment: *for page_number in range(1, 10):  # up to 9, inclusive*
 ![image](https://github.com/TylerBerzzz/SporcleShowdownStatistics/assets/30520534/26e669eb-de3c-4601-904f-efaa92b2130d)
 
+## Fully Automatic Scraping Method
+Everything is done through the hardcoded username!
+![image](https://github.com/TylerBerzzz/SporcleShowdownStatistics/assets/30520534/2e324d4e-8add-48cd-9186-ba5fdd25bdfb)
+
 
 ## What's Next
 Currently, the data is being properly collected and its only up from here! The final touches on this project will be to detatch the hard-coded username and make it dynamic.  
