@@ -16,7 +16,7 @@ data = []
 
 # Loop through each file
 for i in range(1, 7):  # For files page1.txt through page6.txt
-    file_path = rf'Page{i}.txt'
+    file_path = rf'C:\Users\speed\OneDrive\Desktop\Tyler Temporary Folder\Coding Projects\SporcleStatistics\Science\Page{i}.txt'
 
     # Use a context manager to open and read the file content
     with open(file_path, 'r', encoding='utf-8') as file:
