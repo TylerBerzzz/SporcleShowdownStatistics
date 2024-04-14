@@ -9,9 +9,12 @@ Side note: if you want to play us, our username is **steveylat** :P
 The aim is to demonstrate how to scrape Sporcle performance data for your account, specifically from the username tables, and analyze it in Python. This allows for a deeper understanding of strengths and weaknesses across different trivia categories.
 
 ## Methodology
-As of April 11, 2024, this script is in its early stages, with only 30 minutes of development. Initial attempts to scrape Sporcle using the requests library were blocked, likely due to anti-scraping measures. The  method involves manually copying table data via the browser's "inspect" feature into a text file. A preliminary script successfully extracts this data for the "Science" category, serving as a proof of concept for further development. 
+As of April 11, 2024, this script is in its early stages, with only 30 minutes of development. Initial attempts to scrape Sporcle using the requests library were blocked, likely due to anti-scraping measures. The  method involves manually copying table data via the browser's "inspect" feature into a text file. A preliminary script successfully extracts this data for the "Science" category, serving as a proof of concept for further development. The script is called *StatisticGrabber*
 
-On April 14th, I tried out selenium for automatically retrieving the table from sporcle. It effectively collects information, it still needs improvements. For example, scraping all categories and iterating through each of its pages needs to be done in the next version.
+On April 14th @12PM, I tried out selenium for automatically retrieving the table from sporcle. It effectively collects information, it still needs improvements. For example, scraping all categories and iterating through each of its pages needs to be done in the next version. The script is called *AutomatedStatisticGrabber*
+
+On April 14th @2:57PM, I've fully automated the retrieval for the **steveylat** username. The script is called *FullyAutomatedStatisticGrabber*
+
 
 ## Manual Scraping Method
 ### Step 1: 
@@ -43,7 +46,11 @@ Iterating through this url: **https://www.sporcle.com/user/steveylat/showdowns/{
 This part needs to be fixed because it's manually determined at the moment: *for page_number in range(1, 10):  # up to 9, inclusive*
 ![image](https://github.com/TylerBerzzz/SporcleShowdownStatistics/assets/30520534/26e669eb-de3c-4601-904f-efaa92b2130d)
 
+## Fully Automatic Scraping Method
+Everything is done through the hardcoded username!
+![image](https://github.com/TylerBerzzz/SporcleShowdownStatistics/assets/30520534/2e324d4e-8add-48cd-9186-ba5fdd25bdfb)
+
 
 ## What's Next
-Currently, the project offers a basic proof-of-concept model for extracting data on a single topic. The next step involves finding an efficient solution to bypass the manual data entry, with plans to explore the selenium library for automated web scraping.
+Currently, the data is being properly collected and its only up from here! The final touches on this project will be to detatch the hard-coded username and make it dynamic.  
 
