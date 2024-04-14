@@ -1,5 +1,5 @@
 #Developed by: Tyler Bershad
-#Assisted by: Chat GPT
+#Assisted by: ChatGPT
 #Last Modified: 4/14/2024
 #Objective: Automatically scrape the sporcle data using Selenium for geography subject
 
