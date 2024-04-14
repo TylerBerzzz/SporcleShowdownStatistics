@@ -1,5 +1,6 @@
 # Sporcle Showdown
 ## Last Modified: 4/14/2024
+## This project is near complete! I will be rewritting everything to make it more clear soon.
 ## Overview
 This project was inspired by our competitive Sporcle trivia games on Discord, where my friends and I noticed varying performance across different categories such as movies, sports, science, and geography. Curious for a deeper analysis beyond our anecdotal evidence, we found that Sporcle's raw stats didn't offer the insights we sought. This repository was created to fill that gap by enabling detailed performance analysis through data scraping.
 
@@ -13,7 +14,9 @@ As of April 11, 2024, this script is in its early stages, with only 30 minutes o
 
 On April 14th @12PM, I tried out selenium for automatically retrieving the table from sporcle. It effectively collects information, it still needs improvements. For example, scraping all categories and iterating through each of its pages needs to be done in the next version. The script is called *AutomatedStatisticGrabber*
 
-On April 14th @2:57PM, I've fully automated the retrieval for the **steveylat** username. The script is called *FullyAutomatedStatisticGrabber*
+On April 14th @2:57AM, I've fully automated the retrieval for the **steveylat** username. The script is called *FullyAutomatedStatisticGrabber*
+
+On April 14th @3:32PM, I've fully automated the retrieval for any username you're interested in selecting. I script is called *CompeitiveIntelligenceGrabber*. I also added graphing functionality as well. 
 
 
 ## Manual Scraping Method
